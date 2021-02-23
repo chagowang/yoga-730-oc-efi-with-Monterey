@@ -59,9 +59,9 @@
 				<key>WiFi_1</key>
 				<dict>
 					<key>password</key>
-					<string> zxyssdt112233 </string>
+					<string>zxyssdt112233</string>
 					<key>ssid</key>
-					<string> ssdt_5G </string>
+					<string>ssdt_5G</string>
 				</dict>
 				<key>WiFi_2</key>
 				<dict>
