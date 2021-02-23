@@ -90,7 +90,7 @@
 	<key>LSMinimumSystemVersion</key>
 	<string>10.15</string>
 	<key>NSHumanReadableCopyright</key>
-	<string>Copyright © 2020 钟先耀. All rights reserved.</string>
+	<string>Copyright © 2020</string>
 	<key>OSBundleLibraries</key>
 	<dict>
 		<key>com.apple.iokit.IO80211Family</key>
